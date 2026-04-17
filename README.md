@@ -13,7 +13,7 @@ The goal is to demonstrate an end-to-end Risk Analytics workflow: from data desi
 ---
 
 ## Project Structure
-SynthAudit/
+SynthAudit//
 ├── data/
 │   ├── raw/               # Generated transaction data (not tracked by Git)
 │   └── processed/         # Preprocessed features for modeling
